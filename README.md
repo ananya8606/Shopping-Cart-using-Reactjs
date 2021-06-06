@@ -1,3 +1,11 @@
+# Live demo of Shopping Cart using Reactjs:-
+A fully functional shopping cart developed using ReactJS.This is a basic shopping cart which takes in a sample data in JSON format, displays it and enables the user to add items to the cart.
+ 
+Click on the link given below:-
+
+https://shopcart.vercel.app
+
+![](https://i.ibb.co/QHbNGY3/Screenshot-2021-06-06-11-48-03-272-com-android-chrome.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
