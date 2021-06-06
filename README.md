@@ -1,5 +1,5 @@
 # Live demo of Shopping Cart using Reactjs:-
-A fully functional shopping cart developed using ReactJS.This is a basic shopping cart which takes in a sample data in JSON format, displays it and enables the user to add items to the cart.
+A fully functional shopping cart developed using ReactJS.This is a basic shopping cart which takes in a sample data, displays it and enables the user to add items to the cart.
  
 Click on the link given below:-
 
