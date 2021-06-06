@@ -1,0 +1,42 @@
+.header {
+  height: 50em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  background-color:yellow;
+}
+
+#header-title {
+  font-weight:400;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 1);
+}
+.first-header {
+  background: url('https://i.ibb.co/0Kp2wdw/SAVE-20210602-112701.jpg');
+}
+
+.second-header {
+  background: url('https://i.ibb.co/1bdW4k8/images-1-1622615254892.jpg');
+}
+
+.third-header {
+  background: url('https://i.ibb.co/0t0qKr7/SAVE-20210602-111603.jpg');
+}
+
+.fourth-header {
+  background: url('https://i.ibb.co/HBtVtD0/1500-3-500g-cashew-almond-walnut.jpg');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}
+.rectangle {
+    width:888px;
+    height:1000px;
+    padding:15px;
+}
