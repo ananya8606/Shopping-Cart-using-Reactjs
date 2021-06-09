@@ -210,10 +210,10 @@ class App extends Component {
     super(props);
     this.state = {
       cart: {
-        'apple': 0,
-        'banana': 0,
-        'orange': 0,
-        'papaya': 0,
+        'Apple': 0,
+        'Banana': 0,
+        'Orange': 0,
+        'Papaya': 0,
 'Grapes':0,
 'Mango':0,
 'Musk Melon':0,
@@ -257,10 +257,10 @@ class App extends Component {
     e.preventDefault();
     this.setState( (prevState) => {
       prevState.cart = {
-        'apple': 0,
-        'banana': 0,
-        'orange': 0,
-        'papaya': 0,
+        'Apple': 0,
+        'Banana': 0,
+        'Orange': 0,
+        'Papaya': 0,
 'Grapes':0,
 'Mango':0,
 'Musk Melon':0,
