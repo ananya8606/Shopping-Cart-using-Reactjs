@@ -1,5 +1,5 @@
 .header {
-  height:45em;
+  height:30em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,6 +37,6 @@
 }
 .rectangle {
     width:888px;
-    height:1000px;
+    height:800px;
     padding:15px;
 }
