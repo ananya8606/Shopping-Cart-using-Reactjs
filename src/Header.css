@@ -1,5 +1,5 @@
 .header {
-  height:30em;
+  height:50em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,18 +15,22 @@
 }
 .first-header {
   background: url('https://i.ibb.co/0Kp2wdw/SAVE-20210602-112701.jpg');
+  height:40em;
 }
 
 .second-header {
   background: url('https://i.ibb.co/1bdW4k8/images-1-1622615254892.jpg');
+  height:40em;
 }
 
 .third-header {
   background: url('https://i.ibb.co/0t0qKr7/SAVE-20210602-111603.jpg');
+  height:40em;
 }
 
 .fourth-header {
   background: url('https://i.ibb.co/HBtVtD0/1500-3-500g-cashew-almond-walnut.jpg');
+  height:40em;
 }
 
 .first-header, .second-header, .third-header, .fourth-header {
@@ -37,6 +41,6 @@
 }
 .rectangle {
     width:888px;
-    height:800px;
+    height:1000px;
     padding:15px;
 }
